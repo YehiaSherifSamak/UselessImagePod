@@ -1,0 +1,16 @@
+PODS:
+  - UselessImagePod (0.1.0)
+
+DEPENDENCIES:
+  - UselessImagePod (from `../`)
+
+EXTERNAL SOURCES:
+  UselessImagePod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UselessImagePod: c0436fe6d48bcbab6827673afbe3a00a9b3576c6
+
+PODFILE CHECKSUM: fcf5d3ce532ad23903a6dac8d18bb7a969935a5a
+
+COCOAPODS: 1.9.3

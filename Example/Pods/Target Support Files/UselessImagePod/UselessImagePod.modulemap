@@ -1,0 +1,6 @@
+framework module UselessImagePod {
+  umbrella header "UselessImagePod-umbrella.h"
+
+  export *
+  module * { export * }
+}
